@@ -16,7 +16,7 @@ I enjoy turning ideas into practical engineering solutions by combining hardware
 - **Languages:** C, C++, Python
 - **Embedded Systems:** ESP32, Arduino, PlatformIO
 - **Electronics:** KiCad, sensors, actuators, PWM, motor drivers
-- **Robotics & CAD:** SolidWorks, AutoCAD, motor control
+- **Robotics & CAD:** AutoCAD, motor control
 - **IoT & Connectivity:** Wi-Fi, Bluetooth, telemetry
 - **Software & Tools:** FastAPI, Playwright, Git, GitHub
 
